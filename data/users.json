@@ -1,0 +1,23 @@
+{
+	"pyconlatam": {
+		"passwd": "pyconlatam"
+	},
+	"client": {
+		"passwd": "client"
+	},
+	"guest": {
+		"passwd": "guest"
+	},
+	"maintainer": {
+		"passwd": "maintainer"
+	},
+	"darshita": {
+		"passwd": "darshita"
+	},
+	"shyam": {
+		"passwd": "shyam"
+	},
+	"sanskar": {
+		"passwd": "sanskar"
+	}
+}

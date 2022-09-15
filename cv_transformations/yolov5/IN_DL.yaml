@@ -1,0 +1,6 @@
+path: ./indian_train  # dataset root dir
+train: training.txt  # train images (relative to 'path') 118287 images
+val: val.txt  # val images (relative to 'path') 5000 images
+
+nc: 4
+names: ["license_number", "name", "address", "type"]

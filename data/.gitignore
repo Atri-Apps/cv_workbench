@@ -1,0 +1,5 @@
+test_images/
+test_outputs/
+temp/
+comments.json
+tests.json

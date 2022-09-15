@@ -1,0 +1,36 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+fastapi = "*"
+uvicorn = "*"
+jsonpickle = "*"
+python-multipart = "*"
+atri-utils = "*"
+passporteye = "*"
+gdown = "*"
+torch = ">=1.7.0"
+matplotlib = ">=3.2.2"
+numpy = ">=1.18.5"
+pillow = ">=7.1.2"
+pyyaml = ">=5.3.1"
+requests = ">=2.23.0"
+scipy = ">=1.4.1"
+torchvision = ">=0.8.1"
+tqdm = ">=4.64.0"
+protobuf = "<4.21.3"
+tensorboard = ">=2.4.1"
+pandas = ">=1.1.4"
+seaborn = ">=0.11.0"
+ipython = "*"
+psutil = "*"
+thop = ">=0.1.1"
+boto3 = "*"
+python-dotenv = "*"
+easyocr = "*"
+atri = "==0.0.51"
+opencv-python = "==4.5.5.64"
+
+[dev-packages]

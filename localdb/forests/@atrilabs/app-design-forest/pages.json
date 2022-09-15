@@ -1,0 +1,22 @@
+{
+  "home": {
+    "name": "Home",
+    "route": "/"
+  },
+  "57f2fde3-f823-46e6-a3d6-82581d4baa44": {
+    "name": "viewtest",
+    "route": "/viewtest"
+  },
+  "724ab274-99d4-41bd-a963-ba098c1d2b75": {
+    "name": "newtest",
+    "route": "/newtest"
+  },
+  "0503061f-d5f0-49d2-a725-a674a3baa497": {
+    "name": "newtestresult",
+    "route": "/newtestresult"
+  },
+  "8a546e2e-7a47-47ff-be1a-6b399e6f2ec6": {
+    "name": "login",
+    "route": "/login"
+  }
+}
