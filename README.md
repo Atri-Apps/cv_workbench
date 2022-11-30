@@ -20,13 +20,22 @@ cd cv_workbench
 pipenv install
 ```
 
-### Step 2: 
+### Step 2: Save weights of trained model
 
 Save the weights of the model trained on US Driving License data as `cv_transformations/yolov5/best.pt`. 
 
 The weights are available at this [location](https://drive.google.com/file/d/1eOjN86OrxHSnmcAOnTMBFcczR_ahMdlu/view?usp=sharing). 
 
-### Step 3: Start the editor
+### Step 3: Create empty files
+
+Create `data/tests.json` and `data/comments.json` with the following content in both:
+
+```
+{}
+```
+
+
+### Step 4: Start the editor
 
 ```shell
 pipenv shell
